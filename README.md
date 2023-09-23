@@ -6,4 +6,4 @@ It's recommended to view this page [here](https://docs.jmatthews.uk), and use [O
 ## Table of Contents
 
 Projects:
-[SEP](/sep/README)
+[SEP](/sep/)
