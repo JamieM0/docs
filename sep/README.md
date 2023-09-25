@@ -1,5 +1,5 @@
 SEP is a small program for encrypting & decryption files using a basic password.
 
-[Encryption](/sEP/encryption)
+[Encryption](/sep/encryption)
 
-[Decryption](/sEP/decryption)
+[Decryption](/sep/decryption)
