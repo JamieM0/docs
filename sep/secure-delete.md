@@ -44,3 +44,5 @@ This method catches and handles general `Exception`. If an exception is caught,
 ### Remarks:
 
 This method should securely erase most files, making them unrecoverable with standard tools. However, please note that this might not work on all types of storage media due to hardware-level features such as wear-levelling on SSDs. Also, remember that this method can be time-consuming for large files or when a large number of passes is specified, as it needs to overwrite every single sector in the file multiple times.
+
+The "Wipe File" (Secure Deletion) form has got a minimum & maximum possible value for the number of passes it should make, now. This means that the form cannot make any number of passes fewer than 3, or greater than 100.
