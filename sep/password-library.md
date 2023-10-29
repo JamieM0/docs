@@ -1,2 +1,7 @@
 # Password Library
-Page does not exist yet. Sorry. [Home](/sep)
+
+## Terminology
+
+|  Shortcut |  Meaning |
+|---|---|
+|  UFID |  Unique File ID. Consists of: (Input File Name + ~ + Input File Creation Date), hashed. |
