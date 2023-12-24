@@ -28,6 +28,8 @@ This method catches and handles general `Exception`. If an exception is caught,
 
 This method overwrites any existing files with the same name as your output files. Also, it’s important to remember that this method will then call the `SecureDelete` function on the original files to ensure that they're unrecoverable. Always keep a backup of important documents and have a way of keeping your password secure.
 
+A backup of the encrypted locker is stored in `%appdata%\sep\backupLockers` to prevent accidental deletion or overwritten contents when encrypted. This backup is overwritten with the latest _encrypted_ version of the data when the locker is unlocked.
+
 ## Benefits and Potential Downsides
 
 **Benefits**:
