@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.jmatthews.uk/blog/</id>
+    <title>Jamie Matthews' Docs Blog</title>
+    <updated>2024-04-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.jmatthews.uk/blog/"/>
+    <subtitle>Jamie Matthews' Docs Blog</subtitle>
+    <icon>https://docs.jmatthews.uk/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome!]]></title>
+        <id>https://docs.jmatthews.uk/blog/welcome/</id>
+        <link href="https://docs.jmatthews.uk/blog/welcome/"/>
+        <updated>2024-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the blog page!]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="welcome-to-the-blog-page">Welcome to the blog page!<a href="https://docs.jmatthews.uk/blog/welcome/#welcome-to-the-blog-page" class="hash-link" aria-label="Direct link to Welcome to the blog page!" title="Direct link to Welcome to the blog page!">​</a></h2>]]></content>
+        <author>
+            <name>Jamie Matthews</name>
+            <uri>https://jmatthews.uk</uri>
+        </author>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>
